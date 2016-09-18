@@ -8,8 +8,8 @@ public class hema {
 		 System.out.println("Number is Positive");
 		if(n<0)
 		  System.out.println("Number is Negative");
-		if(n==0)
-		 System.out.println( "Number is ZERO");
+	//	if(n==0)
+	//	 System.out.println( "Number is ZERO");
 	}
 
 }
